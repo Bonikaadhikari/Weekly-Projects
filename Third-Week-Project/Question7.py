@@ -18,9 +18,9 @@ def sumOfDiagonal(matrix):
 
 # Example: Define a 3x3 matrix
 matrix = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
+    [1, 2, 7],
+    [4, 3, 5],
+    [4, 6, 1]
 ]
 
 # Calculate and print the sum of diagonal elements
